@@ -1,0 +1,21 @@
+.layout_header_plus{
+  cursor: pointer;
+  display: inline-block;
+  padding: 0 10px;
+  i{
+    color: #bacadb;
+  }
+  span{
+    font-size: 13px;
+    margin-left: 5px;
+    &:hover{
+      color: #509ef7;
+    }
+  }
+}
+.el-table .cell {
+  text-align: center;
+}
+.el-dialog{
+  width: 520px;
+}
